@@ -14,8 +14,8 @@ app.get("/", function(req, res) {
 
 //mailchimp api config
 mailchimp.setConfig({
-  apiKey: "843e7912def9a52f14f32a1e2f790de0-us1",
-  server: "us1"
+  apiKey: "Your API Key",
+  server: "Server from your API Key"
 })
 
 
